@@ -1,4 +1,4 @@
 - 👋 Hey, I'm Faraz
 - 🌱 Currently learning C#, python, a bit of web dev, linux & networking. 
 - 👀 I use arch btw
-- 📫 How to reach me - I'll add an email alias soon
+- 📫 How to reach me - faraz@duck.com
